@@ -8,7 +8,7 @@ title: Chân dung nghề của tôi
 
 -Hướng em muốn đi là kỹ sư phần mèm
 
-Vì sao: Khi đó em sẽ có thể được sáng tạo, được giao tiếp, được làm việc chung vs mọi người. Cùng với đó là mong muốn tạo ra các sản phầm giúp ích cho con người, cộng đồng và xã hội.
+Vì sao: Vì em mong muốn đem lại cái sự sáng tạo của mình đến với khách hàng trong tương lai, mong muốn sản phẩm bản thân được vươn ra quốc tế đem đến lợi ích cho mọi người.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
