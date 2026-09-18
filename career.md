@@ -4,14 +4,13 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-> **Bài 1 · Xoá dòng này khi nộp.** Mọi chỗ có dấu … là chỗ em điền.
-> Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
+
 
 ## Hướng tôi nhắm
 
-…
+-Hướng em muốn đi tới đó chính là làm một kĩ sư phần mềm
 
-Vì sao: …
+Vì sao: Đơn giản vì em muốn mang đến cho khách hàng của mình một sản phẩm tốt một trải nghiệm tốt, không những thế còn mang ra cả thế giới ( nếu được ), cùng với đó em muốn thể hiện các kĩ năng mềm. Tất cả điều đó đều phục vụ cho mục đích riêng của em sau này là kiếm tiền lo cho gia đình thôi.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
