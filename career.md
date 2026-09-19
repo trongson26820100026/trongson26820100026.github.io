@@ -27,8 +27,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | CÔNG TY TNHH SAMSUNG SDS VIỆT NAM | Hà Nội: PVI Tower, số 1 Phạm Văn Bạch, Phường Cầu Giấy (quận Cầu Giấy cũ)|
-https://www.topcv.vn/viec-lam/software-internship-program-2026/2292472.html ta_source=JobSearchList_LinkDetail&u_sr_id=LRUM6X9pDF3sbyeY1V1bWHi1nzfbjOB9a2138kNe_1789656655 | …/…/… |
+| 1 | CÔNG TY TNHH SAMSUNG SDS VIỆT NAM | Hà Nội: PVI Tower, số 1 Phạm Văn Bạch, Phường Cầu Giấy (quận Cầu Giấy cũ)|https://www.topcv.vn/viec-lam/software-internship-program-2026/2292472.html ta_source=JobSearchList_LinkDetail&u_sr_id=LRUM6X9pDF3sbyeY1V1bWHi1nzfbjOB9a2138kNe_1789656655 | …/…/… |
 | 2 |CÔNG TY TNHH POLARIS INNOVATION VIỆT NAM| Hồ Chí Minh: 84o Nguyễn Đình Chiểu, Phường Tân Định (Quận 1 cũ)| … | …/…/… |
 | 3 | Công Ty Cổ phần Tập Đoàn KIDO| TP. Hồ Chí Minh(bí mật địa chỉ) | … | …/…/… |
 
