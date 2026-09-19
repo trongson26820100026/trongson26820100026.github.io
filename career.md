@@ -27,9 +27,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 | CÔNG TY TNHH SAMSUNG SDS VIỆT NAM | … | … | …/…/… |
+| 2 |CÔNG TY TNHH POLARIS INNOVATION VIỆT NAM| … | … | …/…/… |
+| 3 | Công Ty Cổ phần Tập Đoàn KIDO| … | … | …/…/… |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
