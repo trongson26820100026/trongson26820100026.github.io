@@ -80,7 +80,7 @@ Nguyên tắc cốt lõi của bảo vệ dữ liệu là "consent trước khi 
 
 5. Yêu cầu cụ thể
 Chúng tôi yêu cầu: tạm dừng hoàn toàn việc thu thập vị trí cho đến khi chính sách riêng tư được cập nhật và người dùng được yêu cầu đồng ý rõ ràng (explicit consent) — kể cả nếu điều đó có nghĩa là trì hoãn ngày ra mắt sản phẩm.
-- **Quyết định của tôi**, và vì sao: …
+- **Quyết định của tôi**, và vì sao: -Quyết định của tôi sẽ nghiêng về phía người dùng vì nó liên quan đến việc vi phạm người dùng điều này liên quan đến pháp luật, cái thứ hai là việc gây dựng về niềm tin của người dùng với công ty nó sẽ gây ảnh hưởng nặng nề. 
 
 ## Ba việc tôi làm trong học kỳ này
 
