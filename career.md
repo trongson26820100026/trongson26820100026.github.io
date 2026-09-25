@@ -51,13 +51,27 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
+- Phía luật sư công ty lập luận rằng: 1. Thời điểm vi phạm không đồng nghĩa với hậu quả nghiêm trọng ngay lập tức
+Việc chậm cập nhật chính sách riêng tư trong vài ngày, nếu được khắc phục nhanh chóng và chủ động, thường được các cơ quan quản lý xem là vi phạm kỹ thuật (technical violation) chứ không phải vi phạm có chủ đích (willful violation). Nhiều khung pháp lý — kể cả GDPR — có xu hướng khoan hồng hơn với các công ty chủ động sửa lỗi trước khi bị khiếu nại hoặc điều tra.
+
+2. Rủi ro kinh doanh của việc trì hoãn có thể lớn hơn rủi ro pháp lý
+Nếu sản phẩm đã cam kết với đối tác, nhà đầu tư, hoặc thị trường về ngày ra mắt, việc trì hoãn có thể gây thiệt hại tài chính cụ thể và đo lường được (mất hợp đồng, mất niềm tin đối tác), trong khi rủi ro pháp lý từ việc chậm vài ngày là xác suất thấp và có thể giảm thiểu.
+
+3. Đây là vấn đề "khai báo", không phải "thu thập trái phép"
+Công ty không thu thập dữ liệu một cách lén lút vĩnh viễn — mục tiêu là cập nhật chính sách trong thời gian rất ngắn (có thể trong vòng 24-48 giờ tới). Việc thu thập dữ liệu bắt đầu song song với quá trình hoàn thiện văn bản pháp lý là thông lệ phổ biến trong ngành, miễn là:
+
+Dữ liệu chưa được chia sẻ với bên thứ ba
+Chưa được dùng cho mục đích ngoài tính năng cốt lõi
+Chính sách sẽ được cập nhật trong thời gian hợp lý
+
+4. Giải pháp giảm thiểu rủi ro mà không cần dừng sản phẩm
+Tôi đề xuất: bật tính năng thu thập vị trí nhưng giới hạn phạm vi sử dụng dữ liệu (chỉ phục vụ chức năng, không dùng cho quảng cáo/phân tích) cho đến khi chính sách chính thức có hiệu lực — đây là cách "giảm thiểu rủi ro" được chấp nhận rộng rãi trong thực tiễn pháp lý doanh nghiệp.
 - Phía người dùng lập luận rằng: …
 - **Quyết định của tôi**, và vì sao: …
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
+1. 
 2. …
 3. …
 
