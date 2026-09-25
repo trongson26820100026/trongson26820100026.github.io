@@ -84,9 +84,9 @@ Chúng tôi yêu cầu: tạm dừng hoàn toàn việc thu thập vị trí cho
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. 
-2. …
-3. …
+1. Học thêm các kĩ năng cần thiết 
+2. Chăm chỉ trau dồi bản thân 
+3. Làm quen với nhịp sống đại học
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -99,4 +99,4 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Học** | … |
 | **Hành** | … |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: Gemini, Claude.
