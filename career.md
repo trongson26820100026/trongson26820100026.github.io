@@ -66,7 +66,20 @@ Chính sách sẽ được cập nhật trong thời gian hợp lý
 
 4. Giải pháp giảm thiểu rủi ro mà không cần dừng sản phẩm
 Tôi đề xuất: bật tính năng thu thập vị trí nhưng giới hạn phạm vi sử dụng dữ liệu (chỉ phục vụ chức năng, không dùng cho quảng cáo/phân tích) cho đến khi chính sách chính thức có hiệu lực — đây là cách "giảm thiểu rủi ro" được chấp nhận rộng rãi trong thực tiễn pháp lý doanh nghiệp.
-- Phía người dùng lập luận rằng: …
+- Phía người dùng lập luận rằng: 1. "Vi phạm kỹ thuật" vẫn là vi phạm quyền cơ bản
+Không có khái niệm "vi phạm nhẹ" khi nói đến quyền được biết dữ liệu gì đang bị thu thập về mình. Ngay từ giây phút đầu tiên vị trí của một người dùng được ghi lại mà không có sự đồng thuận hợp lệ, quyền riêng tư của họ đã bị xâm phạm — bất kể sau đó công ty có "sửa sai" nhanh hay chậm.
+
+2. Lập luận "thiệt hại kinh doanh lớn hơn rủi ro pháp lý" đặt lợi nhuận lên trên con người
+Đây chính là kiểu tư duy dẫn đến hàng loạt vụ bê bối dữ liệu lớn trong ngành công nghệ. Thiệt hại tài chính của công ty là có thể đo đếm và phục hồi được; nhưng thiệt hại với người dùng — dữ liệu vị trí bị lộ, bị lạm dụng, bị dùng để suy luận ra nơi ở, nơi làm việc, thói quen cá nhân — có thể không thể đảo ngược.
+
+3. "Giới hạn phạm vi sử dụng dữ liệu" không giải quyết được vấn đề gốc
+Cam kết nội bộ của công ty ("chỉ dùng cho tính năng, không dùng cho quảng cáo") không có giá trị pháp lý nếu không được ghi trong chính sách công khai. Người dùng không có cách nào kiểm chứng hay ràng buộc cam kết này — nó hoàn toàn phụ thuộc vào thiện chí một chiều của công ty.
+
+4. Đồng thuận (consent) phải đi trước, không phải đi sau
+Nguyên tắc cốt lõi của bảo vệ dữ liệu là "consent trước khi thu thập" (opt-in), không phải "thu thập trước rồi thông báo sau". Việc để deadline sản phẩm quyết định tốc độ tôn trọng quyền riêng tư là đảo ngược trật tự ưu tiên đạo đức: quyền con người không nên bị điều chỉnh theo lịch trình kinh doanh.
+
+5. Yêu cầu cụ thể
+Chúng tôi yêu cầu: tạm dừng hoàn toàn việc thu thập vị trí cho đến khi chính sách riêng tư được cập nhật và người dùng được yêu cầu đồng ý rõ ràng (explicit consent) — kể cả nếu điều đó có nghĩa là trì hoãn ngày ra mắt sản phẩm.
 - **Quyết định của tôi**, và vì sao: …
 
 ## Ba việc tôi làm trong học kỳ này
