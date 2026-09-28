@@ -8,7 +8,7 @@ title: Chân dung nghề của tôi
 
 -Hướng em muốn đi là kỹ sư phần mềm
 
-Vì sao: Vì em mong muốn đem lại cái sự sáng tạo của mình đến với khách hàng trong tương lai, mong muốn sản phẩm bản thân được vươn ra quốc tế đem đến lợi ích cho mọi người.
+Vì sao: Em muốn làm kĩ sư phần mềm vì em thích cảm giác được làm việc, được sáng tạo, được mang đến cho mọi người những điều có ý nghĩa với sản phẩm mình làm ra.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -16,10 +16,10 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | • Là sinh viên năm cuối hoặc đã tốt nghiệp Đại học chưa quá 02 năm, ưu tiên các chuyên ngành Công nghệ thông tin hoặc các chương trình đào tạo liên quan đến lập trình và kỹ thuật phần mềm | - Tốt nghiệp Cao Đẳng trở lên chuyên ngành CNTT, hoặc ngành liên quan | … | chưa / một phần / rồi |
-| Kỹ năng |  Nắm vững kiến thức nền tảng về cấu trúc dữ liệu, thuật toán và thành thạo ít nhất một ngôn ngữ lập trình (Java, C++, Python,...) | <br>- Khả năng tư duy, tự học hỏi nhanh<br> - Khả năng phân tích thiết kế, phát triển phần mềm tốt<br>- Có khả năng làm việc nhóm, cũng như làm việc độc<br>-Tiếng Anh cơ bản: nghe, nói, đọc, viết lập. | … | … |
-| Thái độ | Thái độ cầu tiến, ham học hỏi, năng động và sẵn sàng thử thách | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức |   |  | … | chưa |
+| Kỹ năng |  Nắm vững kiến thức nền tảng về cấu trúc dữ liệu, thuật toán và thành thạo ít nhất một ngôn ngữ lập trình (Java, C++, Python,...) | <br>- Khả năng tư duy, tự học hỏi nhanh<br> - Khả năng phân tích thiết kế, phát triển phần mềm tốt<br>- Có khả năng làm việc nhóm, cũng như làm việc độc<br>-Tiếng Anh cơ bản: nghe, nói, đọc, viết lập. | … | chưa|
+| Thái độ | Thái độ cầu tiến, ham học hỏi, năng động và sẵn sàng thử thách | … | … | một phần|
+| Công cụ | … | … | … | rồi|
 
 ## Ba tin tuyển dụng
 
