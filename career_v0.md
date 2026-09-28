@@ -16,7 +16,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | • Là sinh viên năm cuối hoặc đã tốt nghiệp Đại học chưa quá 02 năm, ưu tiên các chuyên ngành Công nghệ thông tin hoặc các chương trình đào tạo liên quan đến lập trình và kỹ thuật phần mềm|-Tốt nghiệp Đại học chuyên ngành CNTT, Khoa học Máy tính, Kỹ thuật Phần mềm hoặc các ngành liên quan.<br>-Có từ 3 năm kinh nghiệm Software Engineering/Backend Development. | -Tốt nghiệp Đại học trở lên chuyên ngành Phần mềm máy tính, Công nghệ thông tin hoặc các chuyên ngành có liên quan.<br>-Có từ 03 năm kinh nghiệm làm việc trong lĩnh vực phát triển phần mềm Full-stack.<BR>-Điểm cộng: Có nền tảng về O2O, Thương mại điện tử (E-commerce) hoặc các lĩnh vực liên quan đến Internet.<br>-Biết tiếng Anh/tiếng Trung (làm việc với team quốc tế) | … | chưa |
+| Kiến thức | • Là sinh viên năm cuối hoặc đã tốt nghiệp Đại học chưa quá 02 năm, ưu tiên các chuyên ngành Công nghệ thông tin hoặc các chương trình đào tạo liên quan đến lập trình và kỹ thuật phần mềm|-Tốt nghiệp Đại học chuyên ngành CNTT, Khoa học Máy tính, Kỹ thuật Phần mềm hoặc các ngành liên quan.<br>-Có từ 3 năm kinh nghiệm Software Engineering/Backend Development. | -Tốt nghiệp Đại học trở lên chuyên ngành Phần mềm máy tính, Công nghệ thông tin hoặc các chuyên ngành có liên quan.<br>-Có từ 03 năm kinh nghiệm làm việc trong lĩnh vực phát triển phần mềm Full-stack.<BR>-Điểm cộng: Có nền tảng về O2O, Thương mại điện tử (E-commerce) hoặc các lĩnh vực liên quan đến Internet.<br>-Biết tiếng Anh/tiếng Trung (làm việc với team quốc tế) | chưa | chưa |
 | Kỹ năng |  |  | … | chưa|
 | Thái độ |  | … | … | một phần|
 | Công cụ | … | … | … | rồi|
