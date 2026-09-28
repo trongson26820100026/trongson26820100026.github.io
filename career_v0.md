@@ -16,9 +16,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức |   |  | … | chưa |
-| Kỹ năng |  Nắm vững kiến thức nền tảng về cấu trúc dữ liệu, thuật toán và thành thạo ít nhất một ngôn ngữ lập trình (Java, C++, Python,...) | <br>- Khả năng tư duy, tự học hỏi nhanh<br> - Khả năng phân tích thiết kế, phát triển phần mềm tốt<br>- Có khả năng làm việc nhóm, cũng như làm việc độc<br>-Tiếng Anh cơ bản: nghe, nói, đọc, viết lập. | … | chưa|
-| Thái độ | Thái độ cầu tiến, ham học hỏi, năng động và sẵn sàng thử thách | … | … | một phần|
+| Kiến thức |  |  | … | chưa |
+| Kỹ năng |  |  | … | chưa|
+| Thái độ |  | … | … | một phần|
 | Công cụ | … | … | … | rồi|
 
 ## Ba tin tuyển dụng
