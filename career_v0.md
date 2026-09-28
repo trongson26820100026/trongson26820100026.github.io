@@ -55,9 +55,9 @@ Tình huống: thu thập vị trí người dùng mà không khai báo trong ch
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Hoàn thành học phần này 
+2. Tập trung phấn đấu
+3. Trau dồi kĩ năng cần thiết
 
 Cụ thể tới mức tháng sau kiểm được.
 
