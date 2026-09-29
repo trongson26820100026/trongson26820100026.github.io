@@ -4,13 +4,9 @@ title: Bản đồ học tập bốn năm
 
 # Bản đồ học tập bốn năm
 
-> **Bài 2 · Xoá dòng này khi nộp.**
-> Tự xếp trước bằng tay, chưa mở AI. Xếp xong mới đưa cho nó phản biện.
-
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
-…
-
+Kĩ sư phần mềm
 ## Tám học kỳ
 
 ### Năm nhất
