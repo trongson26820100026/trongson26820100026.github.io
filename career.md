@@ -37,8 +37,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
+- AI viết: Bảng ASK đưa nội dung "Phát triển tích hợp AI (Plus): Tích hợp LLM API, xây dựng luồng RAG, AI Agent..." vào cột Kỹ năng (Skill).
+- Tin tuyển dụng thật ra viết: Yêu cầu gốc ghi rõ đây là điểm cộng kinh nghiệm/thực hành (đã thử nghiệm tích hợp LLM API, RAG, AI Agent hoặc tự xây dựng công cụ AI...). Việc tích hợp này thuộc về Kiến thức chuyên môn & Kinh nghiệm thực tế (Knowledge/Experience) hoặc năng lực ứng dụng, chứ bản thân nó không phải là một danh mục kỹ năng cốt lõi độc lập.
 - Tôi sửa thành: …
 
 **Chỗ thứ hai**
