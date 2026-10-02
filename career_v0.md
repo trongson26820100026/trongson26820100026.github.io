@@ -50,8 +50,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
 - Phía luật sư công ty lập luận rằng: <br>-Vị trí thô không nhất thiết là dữ liệu cá nhân. Nếu chỉ thu thập vị trí ở mức thành phố hoặc quốc gia, không gắn với danh tính, có thể lập luận đây là dữ liệu ẩn danh hoặc tổng hợp.<br>-Có sự đồng ý theo hành vi. Người dùng đã cấp quyền định vị trong hệ điều hành, nên có thể coi là đồng ý với việc thu thập.<br>-Mục đích hợp lý. Dữ liệu phục vụ vận hành sản phẩm, chống gian lận hoặc cải thiện dịch vụ, tức là lợi ích chính đáng của công ty.<br>-Chính sách riêng tư chỉ là tài liệu tham khảo. Có thể cập nhật sau, vì thu thập trước rồi chỉnh tài liệu theo là thực tế phổ biến trong ngành.<br>-Rủi ro thực thi thấp. Cơ quan quản lý thường ưu tiên các vụ vi phạm lớn.
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía người dùng lập luận rằng: <br>-Đồng ý phải có hiểu biết. Quyền định vị của hệ điều hành chỉ cho phép ứng dụng truy cập, không cho biết dữ liệu được dùng làm gì, giữ bao lâu hay chia sẻ với ai. Không khai báo thì không có sự đồng ý đúng nghĩa.<br>-Vị trí là dữ liệu nhạy cảm. Nó suy ra được nơi ở, nơi làm việc, thói quen, nơi đi khám bệnh hay đi lễ. Theo Nghị định 13/2023/NĐ-CP, dữ liệu vị trí xác định qua dịch vụ định vị được xếp vào nhóm nhạy cảm, đòi hỏi thông báo rõ ràng và đồng ý riêng (Luật Bảo vệ dữ liệu cá nhân mới có hiệu lực từ năm 2026, bạn nên kiểm tra các yêu cầu cập nhật). GDPR và quy định của FTC tại Mỹ cũng có nguyên tắc minh bạch tương tự.<br>-Thu thập trước, khai báo sau là sai thứ tự. Dữ liệu đã thu thập khi chưa có cơ sở pháp lý vẫn là vi phạm, dù sau đó có sửa chính sách.<br>-Không khai báo là hành vi che giấu. Nó biến một vấn đề tuân thủ thành rủi ro lừa dối người tiêu dùng, thường bị xử nặng hơn.<br>-Người dùng không thể tự bảo vệ mình. Họ không biết để từ chối, xóa hay khiếu nại.
+- **Quyết định của tôi**, và vì sao: 
 
 ## Ba việc tôi làm trong học kỳ này
 
