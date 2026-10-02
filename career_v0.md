@@ -35,15 +35,15 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: Tin 2 (Polaris Innovation) yêu cầu kinh nghiệm làm việc tối thiểu 2 năm với vị trí Full-stack Developer.
+- Tin tuyển dụng thật ra viết: Tin tuyển dụng thật ra viết: Có từ 03 năm kinh nghiệm làm việc trong lĩnh vực phát triển phần mềm Full-stack.
+- Tôi sửa thành: Kinh nghiệm từ 3 năm trở lên trong lĩnh vực phát triển phần mềm Full-stack.
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: Tin 3 (KIDO Group) yêu cầu ứng viên sử dụng thành thạo ngôn ngữ Python và các Framework liên quan đến AI/Data Science.
+- Tin tuyển dụng thật ra viết: Có kinh nghiệm tốt với Java/Spring Boot, RESTful API và Microservices (Công cụ chính: Redis/Caching, Kafka/RabbitMQ, Java/Spring Boot).
+- Tôi sửa thành: Yêu cầu thành thạo Java/Spring Boot, RESTful API, Microservices và xử lý hệ thống Production (không bắt buộc Python).
 
 ## Một quyết định đạo đức
 
@@ -65,9 +65,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | -Đặt vấn đề & Giao nhiệm vụ (Prompting): Cung cấp bối cảnh rõ ràng, vai trò kỳ vọng và yêu cầu cụ thể cho AI.Đặt câu hỏi mở để mở rộng góc nhìn hoặc yêu cầu AI đưa ra các ý tưởng ban đầu. |
+| **Hoài** | Hoài nghi & Phản biện (Critical Thinking): Kiểm tra lại thông tin AI cung cấp (fact-check), đặt các câu hỏi vặn lại để thử thách lập luận, phát hiện điểm vô lý hoặc các "góc khuất" (bias/hallucination) mà AI chưa xem xét. |
+| **Học** | Đúc kết & Tiếp thu (Learning): Yêu cầu AI giải thích lại các khái niệm phức tạp một cách đơn giản, phân tích cấu trúc/mẫu tư duy của AI, từ đó thu nạp kiến thức mới và tinh chỉnh quy trình làm việc của bản thân. |
+| **Hành** | Ứng dụng & Thực thi (Action): Đưa đầu ra của AI vào công việc thực tế (viết code, soạn thảo, lập kế hoạch), tùy biến lại bằng giọng văn và trải nghiệm cá nhân, đồng thời đo lường hiệu quả để cải tiến lần sau. |
 
 Công cụ đã dùng: Gemini, Claude
