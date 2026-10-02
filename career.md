@@ -39,13 +39,13 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 - AI viết: Bảng ASK đưa nội dung "Phát triển tích hợp AI (Plus): Tích hợp LLM API, xây dựng luồng RAG, AI Agent..." vào cột Kỹ năng (Skill).
 - Tin tuyển dụng thật ra viết: Yêu cầu gốc ghi rõ đây là điểm cộng kinh nghiệm/thực hành (đã thử nghiệm tích hợp LLM API, RAG, AI Agent hoặc tự xây dựng công cụ AI...). Việc tích hợp này thuộc về Kiến thức chuyên môn & Kinh nghiệm thực tế (Knowledge/Experience) hoặc năng lực ứng dụng, chứ bản thân nó không phải là một danh mục kỹ năng cốt lõi độc lập.
-- Tôi sửa thành: …
+- Tôi sửa thành: Kỹ năng lập trình tích hợp và thử nghiệm các giải pháp AI (LLM API, RAG, AI Agent) vào hệ thống hoặc ứng dụng cá nhân.
 
 **Chỗ thứ hai**
 
 - AI viết: Trong dòng Tools, bảng đã tự động bổ sung danh sách các công cụ AI cụ thể như (Copilot, ChatGPT, Claude...).
 - Tin tuyển dụng thật ra viết: Bản mô tả tuyển dụng gốc hoàn toàn không nhắc tên riêng bất kỳ công cụ AI cụ thể nào (chỉ ghi chung là "Sử dụng các công cụ AI trong công việc hằng ngày"). Việc đưa tên các công cụ bên ngoài vào khiến bảng ASK bị sai lệch so với phạm vi dữ liệu đầu vào thực tế được cung cấp.
-- Tôi sửa thành: …
+- Tôi sửa thành: Các công cụ AI phục vụ công việc lập trình và tự động hóa hằng ngày
 
 ## Một quyết định đạo đức
 
