@@ -94,9 +94,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | * Bắt đầu bằng việc nêu vấn đề, đặt câu hỏi hoặc đưa ra yêu cầu (prompt) ban đầu.<br>* Khai thác khả năng tổng hợp thông tin nhanh của Gemini và Claude. |
+| **Hoài** | * Không tin tưởng tuyệt đối 100% câu trả lời đầu tiên (hoài nghi lành mạnh).<br>* Trắc nghiệm lại AI, xoáy sâu vào các điểm chưa rõ, yêu cầu đưa ra bằng chứng hoặc thử nghiệm các góc nhìn trái chiều. |
+| **Học** | * Phân tích cách AI tư duy, tổng hợp kiến thức mới từ câu trả lời của AI.<br>* Rút ra quy luật, framework hoặc kiến thức chuyên môn để nâng cao hiểu biết của bản thân.|
+| **Hành** | * Áp dụng kiến thức/kết quả đã tinh lọc vào công việc thực tế (viết code, soạn thảo, lập kế hoạch, sáng tạo nội dung).<br>* Biến câu trả lời của AI thành giá trị thực tế. |
 
 Công cụ đã dùng: Gemini, Claude.
