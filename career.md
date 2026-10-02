@@ -43,8 +43,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
+- AI viết: Trong dòng Tools, bảng đã tự động bổ sung danh sách các công cụ AI cụ thể như (Copilot, ChatGPT, Claude...).
+- Tin tuyển dụng thật ra viết: Bản mô tả tuyển dụng gốc hoàn toàn không nhắc tên riêng bất kỳ công cụ AI cụ thể nào (chỉ ghi chung là "Sử dụng các công cụ AI trong công việc hằng ngày"). Việc đưa tên các công cụ bên ngoài vào khiến bảng ASK bị sai lệch so với phạm vi dữ liệu đầu vào thực tế được cung cấp.
 - Tôi sửa thành: …
 
 ## Một quyết định đạo đức
