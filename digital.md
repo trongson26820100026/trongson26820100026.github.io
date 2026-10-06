@@ -12,7 +12,7 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 
-…
+-Không thấy gì cả, chỉ là những hình ảnh về người trùng tên với bản thân
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
