@@ -25,7 +25,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | 4 | Sáng tạo nội dung số | Chưa có | … |
 | 5 | An ninh và an toàn trên không gian mạng | Dạy lại được | … |
 | 6 | Học tập và phát triển kỹ năng số | Dùng được | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | chưa có | … |
+| 7 | Năng lực số liên quan đến nghề nghiệp | Chưa có | … |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
