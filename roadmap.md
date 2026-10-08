@@ -13,7 +13,7 @@ Kĩ sư phần mềm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 1 | … | … | … |
+| 1 | COS673<br>ENC120<br>SKL115<br>NDF108 | Nhập môn khoa học máy tính<br>Anh ngữ 1<br>Tư duy thiết kế dự án<br> Quốc phòng, an ninh 1| 3<br>3<br>3<br> không tích lũy |
 | 1 | … | … | … |
 | 2 | … | … | … |
 
