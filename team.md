@@ -5,7 +5,7 @@ title: Cẩm nang làm việc nhóm
 # Cẩm nang làm việc nhóm
 
 
-**Nhóm:** … · **Thành viên:** …
+**Nhóm:** Chăm Viết Code **Thành viên:** Nguyễn Trọng Sơn 
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
@@ -15,25 +15,27 @@ title: Cẩm nang làm việc nhóm
 
 Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
 
-**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** …
+**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Nhóm mình làm bài nhóm lúc nào cũng gấp, toàn thức đêm chạy deadline.
 
-**Vấn đề thật (sau khi bóc):** …
 
-*Người viết phần này: …*
+**Vấn đề thật (sau khi bóc):** Hơn 70% khối lượng công việc của nhóm diễn ra trong 48 giờ cuối trước hạn nộp, vì không ai biết rõ phần việc của mình bao gồm những gì, và hạn nội bộ của từng phần không tồn tại. Hệ quả là bài ghép lại lệch giọng văn, trùng nội dung, và không còn thời gian sửa.
+
+
+*Người viết phần này:Phạm Văn Hùng*
 
 ### 2. Cách đo và số liệu
 
 Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
 
-**Cách đo:** … · **Số ngày đo:** … · **Số người tham gia đo:** …
-
+**Cách đo:** Xem các bạn hoạt động trong Group nhóm Zalo như thế nào · **Số ngày đo:** 7 ngày · **Số người tham gia đo:** 2
+ 
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
-| … | … | … |
-| … | … | … |
-| … | … | … |
+| 1 | 15% | Các bạn cùng nhau bàn bạc về vấn đề |
+| 4 | … | … |
+| 7 | … | … |
 
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Trọng Sơn*
 
 ### 3. Nguyên nhân gốc
 
