@@ -31,9 +31,10 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
  
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
-| 1 | 15% | Các bạn cùng nhau bàn bạc về vấn đề |
-| 4 | … | … |
-| 7 | … | … |
+| 1 | 5 người | Các bạn cùng nhau bàn bạc về vấn đề. |
+| 4 | 3 người | Gửi các bài tập dần dần còn mấy bạn kia thì không thấy động tĩnh. |
+| 6 | 3 người | Các bạn thi nhau nhắn hỏi làm cái gì, làm thế nào. |
+| 7 | 3 người | Chỉ có ba người làm bài rồi nộp deadline. |
 
 *Người viết phần này: Nguyễn Trọng Sơn*
 
@@ -47,7 +48,7 @@ Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 4. Vì sao [câu trả lời 3]? → …
 5. Vì sao [câu trả lời 4]? → … *(nguyên nhân gốc)*
 
-*Người viết phần này: …*
+*Người viết phần này: Phạm Quốc Huy*
 
 ### 4. Ba giải pháp đã thử
 
@@ -59,7 +60,7 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 | … | … | … | … | … |
 | … | … | … | … | … |
 
-*Người viết phần này: …*
+*Người viết phần này: *
 
 ### 5. Cẩm nang cho người sau
 
@@ -75,13 +76,13 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 ## 1. Cách chia việc
 
-…
+- Cách chia việc cho nhóm: Tùy theo các điểm mạnh của nhóm mà chia theo năng lực, người làm tốt slide thì làm slide, người sáng tạo đưa ra nội dung hợp lý,...
 
 *Người viết phần này: …*
 
 ## 2. Cách đặt hạn cho nhau
 
-…
+-Cách đặt hạn: Đặt hạn làm sao cho hợp lý. Chẳng hạn có một bạn bị kẹt vì vấn đề gì đó có thể cho bạn hạn thêm 2 ngày, còn không bị kẹt thì từ lúc deadline bắt đầu sẽ là 4 ngày cho từng người
 
 *Người viết phần này: …*
 
@@ -89,19 +90,19 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
 
-…
+- Họp ở thư viện hoặc họp online, trong tầm 1 tiếng rưỡi đến 2 tiếng, người chốt kết luận là nhóm trưởng hoặc người đưa ra kết luận hợp lý
 
 *Người viết phần này: …*
 
 ## 4. Khi một người mất tích
 
-…
+-Khi một người mất tích nhóm sẽ réo tên trên nhóm, gọi điện để nhắc. Còn nếu mất tích luôn sẽ giao phần deadline đó cho người nào làm với cách là sẽ tăng điểm cho người đó và báo cáo với giảng viên về người "mất tích"
 
 *Người viết phần này: …*
 
 ## 5. Khi bất đồng thì quyết thế nào
 
-…
+-Nếu nhóm xảy ra bất đồng với nhóm trưởng sẽ xem xét từ vấn đề gốc để đưa ra hướng đi hợp lý hơn cho các bạn, xoa dịu tình hình bằng những câu đùa, sau đó lại trở lại với deadline khi đã phân hợp lý
 
 *Người viết phần này: …*
 
@@ -109,7 +110,7 @@ Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt k
 
 Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
 
-…
+-Nhóm tôi thường cãi nhau ở khâu phân chia công việc, có người lười có người chăm. Cãi nhau ở chỗ nội dung từng người có hợp lý hay chưa.
 
 ## Tôi đã làm việc với AI thế nào
 
