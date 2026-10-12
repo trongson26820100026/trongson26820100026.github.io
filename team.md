@@ -42,30 +42,25 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
-1. **Vì sao 70% khối lượng công việc bị dồn vào 48 giờ cuối?**  
-   → Vì đa số thành viên đến sát ngày nộp mới bắt đầu làm bài và nhắn hỏi cách làm.
-2. **Vì sao sát ngày nộp thành viên mới bắt đầu làm và nhắn hỏi?**  
-   → Vì nhóm không có mốc kiểm tra tiến độ giữa chừng và không ai biết rõ phần việc của mình gồm những đầu mục nhỏ nào.
-3. **Vì sao không có mốc kiểm tra và công việc không rõ ràng?**  
-   → Vì khi phân công, nhóm chỉ trao đổi sơ qua trên Zalo (ví dụ: "Sơn làm nội dung, Hùng làm slide") mà không chia nhỏ bài tập.
-4. **Vì sao nhóm lại phân công chung chung qua tin nhắn Zalo?**  
-   → Vì nhóm chủ quan cho rằng phân công như vậy là đủ và mặc định mọi người sẽ tự biết cách triển khai đúng hạn.
-5. **Vì sao nhóm lại chủ quan mặc định như vậy?**  
-   → *(Nguyên nhân gốc)* **Nhóm thiếu quy trình quản lý tiến độ chuẩn: không có bảng phân công chi tiết kèm tiêu chuẩn đầu ra, thiếu hạn nộp nội bộ và thiếu cơ chế cam kết trách nhiệm cá nhân.**
+1. Vì sao [vấn đề xảy ra]? →Vì sao cả nhóm phải thức đêm dồn việc vào 48 giờ cuối?
+2. Vì sao [câu trả lời 1]? →Vì nhóm không có mốc hạn chót nội bộ (Soft Deadline) cho từng phần việc nhỏ.
+3. Vì sao [câu trả lời 2]? → Vì nhóm không bóc tách đề bài thành các bước nhỏ nên không biết khi nào thì xong một phần.
+4. Vì sao [câu trả lời 3]? →Vì mỗi thành viên chưa hình dung rõ phần việc của mình cụ thể gồm những mục nào và đầu ra ra sao.
+5. Vì sao [câu trả lời 4]? →Nhóm có thói quen "chia đề mục lớn rồi để đó", thiếu quy trình lập kế hoạch chi tiết (Task Breakdown) và cơ chế theo dõi tiến độ từng ngày ngay từ khi nhận đề.*(nguyên nhân gốc)*
 
-*Người viết phần này: Phạm Quốc Huy*
+*Người viết phần này:Phạm Quốc Huy*
 
 ### 4. Ba giải pháp đã thử
 
 Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái thất bại.
 
-| Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
+| Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / Thất bại |
 |---|---|---|---|---|
-| … | … | … | … | … |
-| … | … | … | … | … |
-| … | … | … | … | … |
+| **1. Spam nhắn tin nhắc nhở liên tục trên nhóm Zalo** | Nguyễn Trọng Sơn | 3 ngày | Tin nhắn bị trôi, thành viên cảm thấy bị phiền; đến ngày 6 vẫn có người hỏi "bây giờ làm gì". | **Thất bại** (Chỉ giải quyết phần ngọn, gây tâm lý ức chế). |
+| **2. Thiết lập Hạn nộp nội bộ (Internal Deadline) trước 3 ngày** | Phạm Văn Hùng | 4 ngày | 3/5 người nộp đúng hạn nội bộ; 2 người trễ nhưng nhóm vẫn còn đủ 24h để tổng hợp và sửa chữa. | **Thành công một phần** (Giảm áp lực dồn giờ chót nhưng vẫn còn thành viên trễ hạn). |
+| **3. Lập Bảng Phân công chi tiết trên Google Sheet + Họp Checkpoint 15 phút giữa tuần** | Phạm Quốc Huy | 7 ngày | 100% thành viên rõ việc, không còn câu hỏi ngô nghê ở ngày sát nộp; bài hoàn thiện trước hạn chính 12 giờ. | **Thành công** (Giải quyết triệt để nguyên nhân gốc). |
 
-*Người viết phần này: *
+*Người viết phần này: Cả nhóm *
 
 ### 5. Cẩm nang cho người sau
 
@@ -90,7 +85,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 - Cách chia việc cho nhóm: Tùy theo các điểm mạnh của nhóm mà chia theo năng lực, người làm tốt slide thì làm slide, người sáng tạo đưa ra nội dung hợp lý,...
 
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Trọng Sơn*
 
 ## 2. Cách đặt hạn cho nhau
 
@@ -115,7 +110,7 @@ Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt k
 
 -Nếu nhóm xảy ra bất đồng với nhóm trưởng sẽ xem xét từ vấn đề gốc để đưa ra hướng đi hợp lý hơn cho các bạn, xoa dịu tình hình bằng những câu đùa, sau đó lại trở lại với deadline khi đã phân hợp lý
 
-*Người viết phần này: …*
+*Người viết phần này: Cả nhóm*
 
 ## Nhóm tôi đã cãi nhau ở chỗ nào
 
@@ -123,11 +118,12 @@ Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng g
 
 -Nhóm em thường cãi nhau ở khâu phân chia công việc, có người lười có người chăm. Cãi nhau ở chỗ nội dung từng người có hợp lý hay chưa. Nói chung là vấn đề người này chưa hiểu ý người kia
 
-## Tôi đã làm việc với AI thế nào
+*Người viết phần này: Cả nhóm*
 
+## Tôi đã làm việc với AI thế nào
 | Bước | Nhóm đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Nhóm gửi đề bài lên AI để nhờ gợi ý dàn ý tổng quát và đề xuất cách xé nhỏ deadline nội bộ cho 5 thành viên. |
+| **Hoài** | Nhóm nghi vấn lại kết quả của AI: Dàn bài AI gợi ý có bị trùng ý giữa các phần không?.Thời gian AI đề xuất có bị gấp quá so với lịch học của nhóm không? để điều chỉnh lại cho thực tế. |
+| **Học** | Dùng AI như một công cụ rà soát: Nhờ AI đọc lại bài ghép thô để chỉ ra những chỗ bị sai lệch hoặc câu từ còn thô sơ, qua đó nhóm biết cách tự sửa lại. |
+| **Hành** | Cả nhóm tự phân công nhau tự tìm tài liệu, tự gõ nội dung chi tiết và tự tổng hợp lại thành bản báo cáo cuối cùng chứ không sao chép nguyên văn từ AI. |
