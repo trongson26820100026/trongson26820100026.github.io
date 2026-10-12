@@ -66,13 +66,13 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 
 Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
-**Giữ:** …
+**Giữ:** Giữ một tâm thế thoải mái, luôn trong tình trạng hăng hái làm việc, giữ một cái đầu lạnh, luôn đặt lợi ích nhóm lên đầu.
 
-**Bỏ:** …
+**Bỏ:** Bỏ cái tôi cao đi, bỏ sự lười biếng đi vì nó làm ảnh hưởng nặng nhất, bỏ suy nghĩ làm một mình trong nhóm.
 
-**Cảnh báo cụ thể cho nhóm khoá sau:** …
+**Cảnh báo cụ thể cho nhóm khoá sau:** Đừng xảy ra bất đồng lớn trong nhóm, hãy luôn biết xoa dịu nhóm mình trong mọi tình huống.
 
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Trọng Sơn*
 
 ## 1. Cách chia việc
 
@@ -90,8 +90,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
 
-- Họp ở thư viện hoặc họp online, trong tầm 1 tiếng rưỡi đến 2 tiếng, người chốt kết luận là nhóm trưởng hoặc người đưa ra kết luận hợp lý
-
+- Họp ở thư viện hoặc họp online, trong tầm 1 tiếng rưỡi đến 2 tiếng, người chốt kết luận là nhóm trưởng.
 *Người viết phần này: …*
 
 ## 4. Khi một người mất tích
