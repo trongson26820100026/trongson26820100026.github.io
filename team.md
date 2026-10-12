@@ -121,7 +121,7 @@ Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt k
 
 Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
 
--Nhóm tôi thường cãi nhau ở khâu phân chia công việc, có người lười có người chăm. Cãi nhau ở chỗ nội dung từng người có hợp lý hay chưa.
+-Nhóm em thường cãi nhau ở khâu phân chia công việc, có người lười có người chăm. Cãi nhau ở chỗ nội dung từng người có hợp lý hay chưa. Nói chung là vấn đề người này chưa hiểu ý người kia
 
 ## Tôi đã làm việc với AI thế nào
 
