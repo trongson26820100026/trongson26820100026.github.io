@@ -27,7 +27,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
 
-**Cách đo:** Thống kê số lượng tin nhắn của các bạn đã nhắn trong Zalo về deadline · **Số ngày đo:** 7 ngày · **Số người tham gia đo:** 2
+**Cách đo:** Thống kê số lượng tin nhắn của các bạn đã nhắn trong Zalo về deadline · **Số ngày đo:** 7 ngày · **Số người tham gia đo:** 3
  
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
@@ -42,11 +42,16 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
-1. Vì sao [vấn đề xảy ra]? → …
-2. Vì sao [câu trả lời 1]? → …
-3. Vì sao [câu trả lời 2]? → …
-4. Vì sao [câu trả lời 3]? → …
-5. Vì sao [câu trả lời 4]? → … *(nguyên nhân gốc)*
+1. **Vì sao 70% khối lượng công việc bị dồn vào 48 giờ cuối?**  
+   → Vì đa số thành viên đến sát ngày nộp mới bắt đầu làm bài và nhắn hỏi cách làm.
+2. **Vì sao sát ngày nộp thành viên mới bắt đầu làm và nhắn hỏi?**  
+   → Vì nhóm không có mốc kiểm tra tiến độ giữa chừng và không ai biết rõ phần việc của mình gồm những đầu mục nhỏ nào.
+3. **Vì sao không có mốc kiểm tra và công việc không rõ ràng?**  
+   → Vì khi phân công, nhóm chỉ trao đổi sơ qua trên Zalo (ví dụ: "Sơn làm nội dung, Hùng làm slide") mà không chia nhỏ bài tập.
+4. **Vì sao nhóm lại phân công chung chung qua tin nhắn Zalo?**  
+   → Vì nhóm chủ quan cho rằng phân công như vậy là đủ và mặc định mọi người sẽ tự biết cách triển khai đúng hạn.
+5. **Vì sao nhóm lại chủ quan mặc định như vậy?**  
+   → *(Nguyên nhân gốc)* **Nhóm thiếu quy trình quản lý tiến độ chuẩn: không có bảng phân công chi tiết kèm tiêu chuẩn đầu ra, thiếu hạn nộp nội bộ và thiếu cơ chế cam kết trách nhiệm cá nhân.**
 
 *Người viết phần này: Phạm Quốc Huy*
 
@@ -66,11 +71,18 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 
 Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
-**Giữ:** Giữ một tâm thế thoải mái, luôn trong tình trạng hăng hái làm việc, giữ một cái đầu lạnh, luôn đặt lợi ích nhóm lên đầu.
+**Giữ:**  
+- Giữ quy trình chia nhỏ công việc trên file quản lý chung (Google Sheet/Trello).  
+- Giữ việc thiết lập **Hạn nộp nội bộ ** trước hạn nộp chính thức từ 2 - 3 ngày.  
+- Duy trì 1 buổi họp Checkpoint ngắn (15 - 20 phút) giữa tuần để rà soát vướng mắc.
 
-**Bỏ:** Bỏ cái tôi cao đi, bỏ sự lười biếng đi vì nó làm ảnh hưởng nặng nhất, bỏ suy nghĩ làm một mình trong nhóm.
+**Bỏ:**  
+- Bỏ thói quen giao việc chung chung qua tin nhắn trôi nổi trên Zalo.  
+- Bỏ tâm lý chủ quan: "Chắc nó tự biết làm" hoặc "Để sát ngày rồi làm một thể".  
+- Bỏ tư tưởng làm việc đơn độc, ôm việc một mình mà không báo cáo tiến độ cho nhóm.
 
-**Cảnh báo cụ thể cho nhóm khoá sau:** Đừng xảy ra bất đồng lớn trong nhóm, hãy luôn biết xoa dịu nhóm mình trong mọi tình huống.
+**Cảnh báo cụ thể cho nhóm khoá sau:**  
+- Đừng bao giờ tin rằng "chỉ cần nhắn trên Zalo là mọi người đã hiểu việc". Nếu không có bảng phân công rõ ràng (ai làm gì, tiêu chuẩn ra sao, khi nào xong) và mốc kiểm tra giữa chừng, **chắc chắn 80% khối lượng công việc sẽ lại dồn vào 24 giờ cuối** và bài làm của các bạn sẽ trở thành một "bức tranh chắp vá"!
 
 *Người viết phần này: Nguyễn Trọng Sơn*
 
