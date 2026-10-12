@@ -27,14 +27,14 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 Đo bằng cách nào, mấy ngày, mấy người, con số ra sao. Có bảng.
 
-**Cách đo:** Xem các bạn hoạt động trong Group nhóm Zalo như thế nào · **Số ngày đo:** 7 ngày · **Số người tham gia đo:** 2
+**Cách đo:** Thống kê số lượng tin nhắn của các bạn đã nhắn trong Zalo về deadline · **Số ngày đo:** 7 ngày · **Số người tham gia đo:** 2
  
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
-| 1 | 5 người | Các bạn cùng nhau bàn bạc về vấn đề. |
-| 4 | 3 người | Gửi các bài tập dần dần còn mấy bạn kia thì không thấy động tĩnh. |
-| 6 | 3 người | Các bạn thi nhau nhắn hỏi làm cái gì, làm thế nào. |
-| 7 | 3 người | Chỉ có ba người làm bài rồi nộp deadline. |
+| Ngày 1 | 5/5 người | Các bạn cùng nhau bàn bạc về vấn đề. |
+| Ngày 4 | 3/5 người | Gửi các bài tập dần dần còn mấy bạn kia thì không thấy động tĩnh. |
+| Ngày 6 | 3/5 người | Các bạn thi nhau nhắn hỏi lên nhóm: "Bây giờ làm cái gì?", "Làm thế nào?". |
+| Ngày 7 | 3/5 người | Chỉ có 3 người gánh vác việc hoàn thiện, ghép bài và thức đêm nộp đúng deadline. |
 
 *Người viết phần này: Nguyễn Trọng Sơn*
 
