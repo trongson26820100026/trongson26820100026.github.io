@@ -60,7 +60,7 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 | **2. Thiết lập Hạn nộp nội bộ (Internal Deadline) trước 3 ngày** | Phạm Văn Hùng | 4 ngày | 3/5 người nộp đúng hạn nội bộ; 2 người trễ nhưng nhóm vẫn còn đủ 24h để tổng hợp và sửa chữa. | **Thành công một phần** (Giảm áp lực dồn giờ chót nhưng vẫn còn thành viên trễ hạn). |
 | **3. Lập Bảng Phân công chi tiết trên Google Sheet + Họp Checkpoint 15 phút giữa tuần** | Phạm Quốc Huy | 7 ngày | 100% thành viên rõ việc, không còn câu hỏi ngô nghê ở ngày sát nộp; bài hoàn thiện trước hạn chính 12 giờ. | **Thành công** (Giải quyết triệt để nguyên nhân gốc). |
 
-*Người viết phần này: Cả nhóm *
+*Người viết phần này: Phạm Văn Hùng *
 
 ### 5. Cẩm nang cho người sau
 
@@ -79,7 +79,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 **Cảnh báo cụ thể cho nhóm khoá sau:**  
 - Đừng bao giờ tin rằng "chỉ cần nhắn trên Zalo là mọi người đã hiểu việc". Nếu không có bảng phân công rõ ràng (ai làm gì, tiêu chuẩn ra sao, khi nào xong) và mốc kiểm tra giữa chừng, **chắc chắn 80% khối lượng công việc sẽ lại dồn vào 24 giờ cuối** và bài làm của các bạn sẽ trở thành một "bức tranh chắp vá"!
 
-*Người viết phần này: Nguyễn Trọng Sơn*
+*Người viết phần này: Nguyễn Đăng Khoa*
 
 ## 1. Cách chia việc
 
@@ -91,20 +91,20 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 -Cách đặt hạn: Đặt hạn làm sao cho hợp lý. Chẳng hạn có một bạn bị kẹt vì vấn đề gì đó có thể cho bạn hạn thêm 2 ngày, còn không bị kẹt thì từ lúc deadline bắt đầu sẽ là 4 ngày cho từng người
 
-*Người viết phần này: …*
+*Người viết phần này: Phạm Văn Hùng*
 
 ## 3. Cách họp
 
 Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
 
 - Họp ở thư viện hoặc họp online, trong tầm 1 tiếng rưỡi đến 2 tiếng, người chốt kết luận là nhóm trưởng.
-*Người viết phần này: …*
+*Người viết phần này: Cả nhóm*
 
 ## 4. Khi một người mất tích
 
 -Khi một người mất tích nhóm sẽ réo tên trên nhóm, gọi điện để nhắc. Còn nếu mất tích luôn sẽ giao phần deadline đó cho người nào làm với cách là sẽ tăng điểm cho người đó và báo cáo với giảng viên về người "mất tích"
 
-*Người viết phần này: …*
+*Người viết phần này: Cả nhóm*
 
 ## 5. Khi bất đồng thì quyết thế nào
 
