@@ -20,10 +20,10 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
 | 1 | Vận hành thiết bị và phần mềm | Đang tập | … |
-| 2 | Năng lực thông tin và dữ liệu | Dùng được | … |
+| 2 | Năng lực thông tin và dữ liệu | Dùng được |Tôi biết tìm kiếm thông tin trên Internet, lựa chọn nội dung phù hợp và sử dụng thông tin để phục vụ việc học. |
 | 3 | Giao tiếp và hợp tác trong môi trường số | Đang tập | … |
 | 4 | Sáng tạo nội dung số | Chưa có | … |
-| 5 | An ninh và an toàn trên không gian mạng | Dạy lại được | … |
+| 5 | An ninh và an toàn trên không gian mạng | Dạy lại được | Tôi hiểu tầm quan trọng của mật khẩu mạnh, xác thực hai bước, bảo vệ thông tin cá nhân và cảnh giác với các đường link đáng ngờ. |
 | 6 | Học tập và phát triển kỹ năng số | Dùng được | … |
 | 7 | Năng lực số liên quan đến nghề nghiệp | Chưa có | … |
 
