@@ -79,7 +79,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 **Cảnh báo cụ thể cho nhóm khoá sau:**  
 - Đừng bao giờ tin rằng "chỉ cần nhắn trên Zalo là mọi người đã hiểu việc". Nếu không có bảng phân công rõ ràng (ai làm gì, tiêu chuẩn ra sao, khi nào xong) và mốc kiểm tra giữa chừng, **chắc chắn 80% khối lượng công việc sẽ lại dồn vào 24 giờ cuối** và bài làm của các bạn sẽ trở thành một "bức tranh chắp vá"!
 
-*Người viết phần này: Nguyễn Đăng Khoa*
+*Người viết phần này: Phạm Văn Hùng*
 
 ## 1. Cách chia việc
 
