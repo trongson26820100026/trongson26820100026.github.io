@@ -33,7 +33,7 @@ Cụ thể tới mức tháng sau đọc lại vẫn làm theo được.
 4. Chỉ dùng AI khi vào thế bí
 5. Luôn đặt câu hỏi chủ động để không bị AI dắt
 
-**Quy tắc tôi thấy khó giữ nhất là số …**, vì …
+**Quy tắc tôi thấy khó giữ nhất là số 4**, vì tâm lý con người đôi lúc hay ỉ lại vào thứ con người cho rằng nó có lợi, nên khi vào thế bí con người thường luôn nản lòng và phó mặc cho thứ hơn mình làm thay, nên em thấy điều số 4 đối với em có lẽ là điều khó giữ nhất khi dùng AI
 
 ## Tôi đã làm việc với AI thế nào
 
