@@ -39,7 +39,7 @@ Cụ thể tới mức tháng sau đọc lại vẫn làm theo được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Đặt câu hỏi ngắn gọn, rõ ràng nhưng thử thách AI bằng những câu hỏi ranh giới (địa lý, thời gian lễ hội) mà bản thân đã biết sẵn đáp án để kiểm tra mức độ chính xác. |
+| **Hoài** | Luôn giữ thái độ nghi ngờ mọi câu trả lời nghe có vẻ tự tin, mượt mà của AI; không vội tin ngay các số liệu hoặc kết luận khẳng định (như việc Bắc Ninh giáp Quảng Ninh). |
+| **Học** | Nhận diện được điểm mạnh (tổng hợp dữ liệu chung, kiến thức sách vở) và điểm yếu chí mạng của AI (hay nhầm ranh giới vi mô, thời gian thực tế của lễ hội văn hóa). |
+| **Hành** | Luôn mở nguồn chính thống (bản đồ hành chính, cổng thông tin bộ/ngành, sách giáo khoa) để tra cứu chéo trước khi đưa bất kỳ dữ liệu nào vào bài làm của mình. |
