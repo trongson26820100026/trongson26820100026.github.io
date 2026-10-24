@@ -4,9 +4,6 @@ title: Soi một công cụ AI
 
 # Soi một công cụ AI
 
-> **Bài 5 · Xoá dòng này khi nộp.**
-> Chọn năm câu mà em **đã biết chắc đáp án**. Hỏi thứ mình không biết
-> thì không có gì để đối chiếu, và mọi câu trả lời đều nghe hợp lý như nhau.
 
 **Công cụ đã thử:** Chat GPT· **Ngày thử:** 19/10/2026
 
