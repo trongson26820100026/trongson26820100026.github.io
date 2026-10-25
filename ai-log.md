@@ -7,7 +7,7 @@ title: Nhật ký dùng AI
 
 | Bài | Công cụ | Vai | Tôi nhờ nó làm gì | Tôi đã sửa lại gì |
 |---|---|---|---|---|
-| 1 | Gemini | Sinh bản nháp + Đối tác phản biện | … | … |
+| 1 | Gemini, Claude | Sinh bản nháp + Đối tác phản biện | … | … |
 | 2 | Gemini | Đối tác phản biện | Lập bảng 8 học kì theo chương trình đào tạo HUTECH | Em đã sửa lại về số tín chỉ cho đủ 150 tín chỉ, loại bỏ các môn "mới" mà AI thêm |
 | 3 | Claude | Sinh bản nháp | … | … |
 | 4 | Chat GPT | Người kèm cặp | … | … |
