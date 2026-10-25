@@ -32,6 +32,6 @@ Nếu thêm hai tuần nữa em sẽ viết hết 6 trang, theo cách chỉnh ch
 
 ## Đoạn tự giới thiệu chín mươi giây
 
-Đường dẫn: …
+Đường dẫn: https://drive.google.com/file/d/15w5qHfCOmopFzvXsj_p0H-09__6SZiFx/view?usp=vids_web
 
 Không cần đẹp, không cần phông nền. Chỉ cần giọng tôi nói về thứ tôi đã làm.
