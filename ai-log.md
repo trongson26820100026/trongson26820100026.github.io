@@ -16,7 +16,8 @@ title: Nhật ký dùng AI
 
 ## Ba lần nó nói sai mà tôi bắt được
 
-1. …
+1. Em hỏi :Tỉnh Bắc Ninh có giáp với tỉnh Quảng Ninh không?
+ AI trả lời: Có, tỉnh Bắc Ninh tiếp giáp với tỉnh Quảng Ninh ở phía Đông Bắc thông qua một số tuyến đường liên tỉnh.
 2. …
 3. …
 
