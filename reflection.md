@@ -19,7 +19,7 @@ Trang em cảm thấy em làm tốt nhất là trang career (Chân dung nghề c
 
 Viết thật. Bài nào cũng có một trang như vậy.
 
-Trang em làm cho xong lại là trang roadmap
+Trang em làm cho xong lại là trang roadmap (Lộ trình 8 học kì của tôi
 
 ## Nếu có thêm hai tuần
 
