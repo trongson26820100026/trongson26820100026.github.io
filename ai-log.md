@@ -7,9 +7,9 @@ title: Nhật ký dùng AI
 
 | Bài | Công cụ | Vai | Tôi nhờ nó làm gì | Tôi đã sửa lại gì |
 |---|---|---|---|---|
-| 1 | Gemini, Claude | Sinh bản nháp + Đối tác phản biện | … | … |
+| 1 | Gemini, Claude | Sinh bản nháp + Đối tác phản biện | Em nhờ nó tạo ra một bảng tuyển dụng từ những văn bản tuyển dụng thật | Sửa lại những điều kiện mà nó tự ý thêm vào, các yêu cầu nghe dễ thở nhưng yêu cầu gốc không có. |
 | 2 | Gemini | Đối tác phản biện | Lập bảng 8 học kì theo chương trình đào tạo HUTECH | Em đã sửa lại về số tín chỉ cho đủ 150 tín chỉ, loại bỏ các môn "mới" mà AI thêm |
-| 3 | Claude | Sinh bản nháp | … | … |
+| 3 | Claude | Sinh bản nháp | | … |
 | 4 | Chat GPT | Người kèm cặp | … | … |
 | 5 |Chat GPT| Đối tác phản biện | … | … |
 | 6 |  | … | … | … |
