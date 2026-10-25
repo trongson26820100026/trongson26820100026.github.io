@@ -5,7 +5,7 @@ title: Dấu chân số của tôi
 # Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
-- Khi tự tim tên mình trên mạng thực sự em không thấy tên mình trên trang web đó, em chỉ thấy những người trùng tên em trên đó, nhưng em mong muốn rằng ngày nào đó mình sẽ có thể hữu hiện trên trang mạng theo hướng nhìn tích cực.
+ Khi tự tim tên mình trên mạng thực sự em không thấy tên mình trên trang web đó, em chỉ thấy những người trùng tên em trên đó, nhưng em mong muốn rằng ngày nào đó mình sẽ có thể hữu hiện trên trang mạng theo hướng nhìn tích cực.
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
