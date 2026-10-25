@@ -19,7 +19,7 @@ Trang em cảm thấy em làm tốt nhất là trang career (Chân dung nghề c
 
 Viết thật. Bài nào cũng có một trang như vậy.
 
-Trang em làm cho xong lại là trang roadmap (Lộ trình 8 học kì của tôi
+Trang em làm cho xong lại là trang roadmap (Lộ trình 8 học kì của tôi), vì em cảm thấy rằng trang đấy cũng chỉ là việc mình dùng AI xong áp vào bài nên em để đấy và làm cho xong và nó chỉ ngốn em có 1 tiếng ngồi làm
 
 ## Nếu có thêm hai tuần
 
