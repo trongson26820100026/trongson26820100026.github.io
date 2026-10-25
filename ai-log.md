@@ -12,7 +12,7 @@ title: Nhật ký dùng AI
 | 3 | Claude, Gemini | Sinh bản nháp | Em chỉ nhờ nó dựng khung cho cái cẩm nang của nhóm  | Em sửa lại những cái thêm của nó trong khi em ràng buộc chỉ dùng dữ liệu em cho |
 | 4 | Chat GPT | Người kèm cặp | Em kêu nó vào vai Tutor để xác định bản thân nhưu thế nào trong 7 nhóm năng lực kia | … |
 | 5 |Chat GPT, Gemini| Đối tác phản biện | Em hỏi nó về những câu hỏi từ dễ đến cao xem AI có bịa ra từ nào không | Em sửa lại hai câu mà AI bịa từ địa phương của em |
-| 6 |  | … | … | … |
+| 6 | … | … | … | … |
 
 ## Ba lần nó nói sai mà tôi bắt được
 
