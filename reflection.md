@@ -23,8 +23,7 @@ Trang em làm cho xong lại là trang roadmap (Lộ trình 8 học kì của t�
 
 ## Nếu có thêm hai tuần
 
-Nếu thêm hai tuần nữa em sẽ viết hết 6 trang, theo cách chỉnh chu hơn, làm các trang có khoa học hơn thay vì, áp dụng AI ít hơn
-
+Nếu thêm hai tuần nữa em sẽ viết hết 6 trang, theo cách chỉnh chu hơn, làm các trang có khoa học hơn thay vì, sử dụng AI hiệu quả và hợp lý hơn
 ## Ba điều tôi mang sang học kỳ sau
 
 1. Cách làm việc nhóm
