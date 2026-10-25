@@ -28,7 +28,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1.Xây dựng hồ sơ GitHub: Hoàn thiện phần giới thiệu và đăng ít nhất một bài tập lập trình do tôi tự thực hiện, kèm README giải thích nội dung.
+1.Xây dựng hồ sơ GitHub: Hoàn thiện phần giới thiệu và đăng ít nhất một bài tập lập trình do em tự thực hiện, kèm README giải thích nội dung.
 
 2.Rèn luyện kỹ năng mềm: Thực hành trình bày ý tưởng thường xuyên để giao tiếp rõ ràng, tự tin và có trọng tâm hơn.
 
