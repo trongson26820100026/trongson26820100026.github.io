@@ -16,10 +16,14 @@ title: Nhật ký dùng AI
 
 ## Ba lần nó nói sai mà tôi bắt được
 
-1. Em hỏi :Tỉnh Bắc Ninh có giáp với tỉnh Quảng Ninh không?
- AI trả lời: Có, tỉnh Bắc Ninh tiếp giáp với tỉnh Quảng Ninh ở phía Đông Bắc thông qua một số tuyến đường liên tỉnh.
-2. …
-3. …
+1. Em hỏi: Tỉnh Bắc Ninh có giáp với tỉnh Quảng Ninh không?
+   AI trả lời: Có, tỉnh Bắc Ninh tiếp giáp với tỉnh Quảng Ninh ở phía Đông Bắc thông qua một số tuyến đường liên tỉnh.
+2. Em hỏi: Hội Lim ở Bắc Ninh được tổ chức chính hội vào ngày nào của tháng mấy âm lịch?
+   AI trả lời: Hội Lim được tổ chức chính hội vào ngày 15 tháng 8 âm lịch hàng năm gắn với tết Trung Thu tại huyện Tiên Du.
+3. Em hỏi: Chương trình đào tạo ngành Khoa học máy tính của trường Đại học HUTECH có bao nhiêu tín chỉ
+   AI trả lời: Trong chương trình đào tạo ngành Khoa học máy tính của HUTECH có 145 tín chỉ chưa bao gồm các học phần không tích lũy
+   
+
 
 ## Điều tôi học được về cách làm việc với nó
 Em học được rằng khi làm việc với AI là không nên quá tin vào AI, khi làm việc nên chọn lọc những thứ nó nói, học thêm cách đôi chiếu với cấc nguồn, phản biện lại được những điều nó nói.
