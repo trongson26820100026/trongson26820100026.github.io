@@ -23,13 +23,13 @@ Trang em làm cho xong lại là trang roadmap (Lộ trình 8 học kì của t�
 
 ## Nếu có thêm hai tuần
 
-Tôi sẽ viết lại trang …, theo cách …
+Nếu thêm hai tuần nữa em sẽ viết hết 6 trang, theo cách chỉnh chu hơn, làm các trang có khoa học hơn thay vì, áp dụng AI ít hơn
 
 ## Ba điều tôi mang sang học kỳ sau
 
-1. …
-2. …
-3. …
+1. Cách làm việc nhóm
+2. Cách dùng AI hợp lý
+3. Cách tự học hiểu quả
 
 ## Đoạn tự giới thiệu chín mươi giây
 
