@@ -16,11 +16,11 @@ title: Nhật ký dùng AI
 
 ## Ba lần nó nói sai mà tôi bắt được
 
-1. Em hỏi: Tỉnh Bắc Ninh có giáp với tỉnh Quảng Ninh không?
+1. Em hỏi: Tỉnh Bắc Ninh có giáp với tỉnh Quảng Ninh không?<br>
    AI trả lời: Có, tỉnh Bắc Ninh tiếp giáp với tỉnh Quảng Ninh ở phía Đông Bắc thông qua một số tuyến đường liên tỉnh.
-2. Em hỏi: Hội Lim ở Bắc Ninh được tổ chức chính hội vào ngày nào của tháng mấy âm lịch?
+2. Em hỏi: Hội Lim ở Bắc Ninh được tổ chức chính hội vào ngày nào của tháng mấy âm lịch?<br>
    AI trả lời: Hội Lim được tổ chức chính hội vào ngày 15 tháng 8 âm lịch hàng năm gắn với tết Trung Thu tại huyện Tiên Du.
-3. Em hỏi: Chương trình đào tạo ngành Khoa học máy tính của trường Đại học HUTECH có bao nhiêu tín chỉ
+3. Em hỏi: Chương trình đào tạo ngành Khoa học máy tính của trường Đại học HUTECH có bao nhiêu tín chỉ<br>
    AI trả lời: Trong chương trình đào tạo ngành Khoa học máy tính của HUTECH có 145 tín chỉ chưa bao gồm các học phần không tích lũy
    
 
